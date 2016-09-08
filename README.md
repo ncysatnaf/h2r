@@ -1,9 +1,9 @@
-# h2r hex to rgb
+# h2r - Convert Hex to RGB
 
 ## install
 
 ```
-npm install modules
+npm install h2r
 ```
 
 ## usage  
